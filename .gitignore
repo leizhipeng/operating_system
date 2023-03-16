@@ -11,9 +11,9 @@
 *.exe
 
 # Build directories
-build/
-Debug/
-Release/
+*/build/
+*/Debug/
+*/Release/
 
 # Temporary files
 *.swp
