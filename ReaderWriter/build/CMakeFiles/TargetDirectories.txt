@@ -1,3 +1,0 @@
-C:/Users/zhipe/Desktop/operating_system/myProjects/ReaderWriter/build/CMakeFiles/ReaderWriter.dir
-C:/Users/zhipe/Desktop/operating_system/myProjects/ReaderWriter/build/CMakeFiles/edit_cache.dir
-C:/Users/zhipe/Desktop/operating_system/myProjects/ReaderWriter/build/CMakeFiles/rebuild_cache.dir
