@@ -1,0 +1,39 @@
+# Object files
+*.o
+*.obj
+
+# Compiled files
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+*.t
+
+# IDE and editor files
+.vscode/
+*.suo
+*.user
+*.sdf
+*.ncb
+*.opensdf
+*.sln.ide
+*.sln.docstates
+*.sln.old
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.FileListAbsolute.txt
+*.vcxproj.UpgradeLog.htm
+*.vcxproj.UpgradeLog*.txt
+*.bak
